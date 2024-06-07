@@ -67,7 +67,7 @@ while True:
         func.submenu_juros()
 
     elif opcao == 5:
-        func.submenu_desconto_acrescimo
+        func.submenu_desconto_acrescimo()
 
     elif opcao == 6:
         func.submenu_roi()
